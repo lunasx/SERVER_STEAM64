@@ -1,0 +1,19 @@
+[de].mirage;
+[cs].office;
+
+aMap[4][64] {
+text.[];
+list.[de].dust2;
+list.[de].mirage;
+list.[cs].office;
+list.[de].cache;
+};
+
+map[4] {
+text.[];
+list.[de].mirage;
+list.[cs].office;
+};
+
+/*------!aMap [name] [tick]--------*/
+/*------!map [name]----------------*/
