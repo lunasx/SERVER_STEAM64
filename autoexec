@@ -1,21 +1,21 @@
 // autoexec
 
-sv_talk_enemy_dead "1"
-sv_talk_enemy_living "1"
-sv_deadtalk "1"
-sv_kick_players_with_cooldown "0"
+[cvar]sv_talk_enemy_dead "1";
+[cvar]sv_talk_enemy_living "1";
+[cvar]sv_deadtalk "1";
+[cvar]sv_kick_players_with_cooldown "0";
 
 /*-----------------------------------*/
 
-mp_maxrounds 30
-mp_halftime 1
-mp_timelimit 999
-mp_startmoney 850
-mp_afterroundmoney 16000
-mp_maxmoney 60000
-mp_teamname_1 "ct"
-mp_teamname_2 "t"
-mp_solid_teammates 2
-mp_forcecamera 0
+[cvar]mp_maxrounds 30;
+[cvar]mp_halftime 1;
+[cvar]mp_timelimit 999;
+[cvar]mp_startmoney 850;
+[cvar]mp_afterroundmoney 16000;
+[cvar]mp_maxmoney 60000;
+[cvar]mp_teamname_1 "ct";
+[cvar]mp_teamname_2 "t";
+[cvar]mp_solid_teammates 2;
+[cvar]mp_forcecamera 0;
 
 // autoexec
